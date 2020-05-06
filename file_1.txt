@@ -2,3 +2,6 @@ new line of file1
 This is file 1
 second line of file1
 third line
+Alex is cool.
+Janet is cool too.
+Ali is the coolest.
